@@ -4,7 +4,7 @@
 Essies Ltd is launching a new product and in the initial stage they 
 are targeting some segmented customer and region. David the 
 sales head has just got the new details from the frontline 
-retailers
+retailers and converted into PDF
 
 • The data requires some reference table to be created 
 which can be used for using the date and products. \
